@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ashishchaursiya
-- 👀 I’m interested in Full stack development.
-- 🌱 I’m currently learning react native.
-- 💞️ I’m looking to collaborate on mobile application
-- 📫 How to reach me ...
+- 👀 I’m interested in Full Frontend development.
+- 🌱 I’m currently learning React native.
+- 📫 chaurasiyaashish383@gmail.com
 
 <!---
 Ashishchaursiya/Ashishchaursiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
