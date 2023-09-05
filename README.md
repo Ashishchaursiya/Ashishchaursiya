@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashishchaursiya
-- 👀 I’m interested in Full Frontend development.
+- 👀 I’m interested in Frontend development.
 - 🌱 I’m currently learning React native.
 - 📫 chaurasiyaashish383@gmail.com
 
